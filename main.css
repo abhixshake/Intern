@@ -6,3 +6,6 @@ a:link {
     background-color: yellowgreen;
     text-decoration: none;
   }
+  .cat-image{
+    border-radius:20%;
+  }
